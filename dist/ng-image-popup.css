@@ -1,0 +1,60 @@
+body {
+    background-color: #000;
+}
+
+#popup-mask {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #323232;
+    z-index: 99001;
+    opacity: .90;
+}
+
+.video-title {
+    color: #fff;
+}
+/*
+
+#popup-img {
+    display: none;
+    position: fixed;
+    top: 20px;
+    padding-top: 20px;
+    height:auto;
+    background-color: transparent;
+    width: 100%;
+    text-align: center;
+    z-index: 99002;
+    overflow: auto;
+}
+
+.img-content {
+    border: 5px solid white;
+    max-width: 700px;
+}
+
+.img-related-div {
+    position: relative;
+}
+
+.popup-close-btn {
+    animation-delay: 1s;
+    position:absolute;
+    z-index:99901;
+    background: transparent url("close-icon.png") no-repeat;
+    background-size: 32px 32px;
+    width: 32px;
+    height: 32px;
+    top: -13px;
+    right: -23px;
+}
+
+
+.img-data {
+    animation-duration: 500ms;
+    animation-delay: 100ms;
+}*/
